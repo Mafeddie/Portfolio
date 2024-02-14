@@ -19,12 +19,10 @@ const HeroSection = () => {
                 // Same substring at the start will only be typed out once, initially
                 "Edward",
                 1000, // wait 1s before replacing "Mice" with "Hamsters"
-                "Web developer",
+                "a Web developer",
                 1000,
-                "Mobile developer",
-                1000,
-                "Windows Developer",
-                1000,
+                "a Mobile developer",
+                1000
               ]}
               wrapper="span"
               speed={50}
