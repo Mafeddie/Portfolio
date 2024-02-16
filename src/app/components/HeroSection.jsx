@@ -30,7 +30,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl">
-            I am a full-stack developer{" "}
+            I like writing software{" "}
           </p>
 
           <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-white bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
@@ -48,7 +48,7 @@ const HeroSection = () => {
             <Image
               src="/hero-image.png"
               alt="hero-image"
-              className="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              className="absolute rounded-full transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               width={300}
               height={300}
             ></Image>
