@@ -32,7 +32,7 @@ const Navbar = () => {
           className="text-2xl md:text-5xl text-white font-semibold"
         > */}
             <Image
-              src="/logo.png"
+              src="./logo.png"
               alt="logo"
               className=" rounded-full top-1/2 left-1/2"
               width={30}
