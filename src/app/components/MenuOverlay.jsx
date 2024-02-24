@@ -11,13 +11,6 @@ const MenuOverlay = ({links }) => {
             <NavLink href={link.path} title={link.title} />
             </li>
         })}
-    <li>
-        <h1>One</h1>
-        <h1>One</h1>
-        <h1>One</h1>
-        <h1>One</h1>
-
-    </li>
     </ul>
   )
 }

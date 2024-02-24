@@ -51,7 +51,7 @@ const Navbar = () => {
             onClick={()=> setNavbarOpen(false)}
             className="items-center px-3 py-2 border rounded border-slate-200 hover:text-white hover:border-white  text-slate-200 flex ">
               {/* <XmarkIcon className="h-5 w-5"/> */}
-              {/* import error qiuick fixed */}
+              {/* import error quick fixed */}
 
               <svg
                 xmlns="http://www.w3.org/2000/svg"
